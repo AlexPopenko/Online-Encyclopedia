@@ -19,3 +19,23 @@ The functions of this online encyclopedia will include searching entries, storin
 | **Preconditions:** | The user is on the encyclopedia website |
 | **Flow:** | The encyclopedia facilitates a search or provides a list of available articles and topics. The user finds an article they have an interest in reading. The user goes to that article's page. |
 | **Requirements:** | Device to access the encyclopedia. Internet access. |
+
+| Name of Use Case: | Searching |
+| ---- | ---- |
+| **Description:** | A user searching the contents of the online encyclopedia. |
+| **Actors:** | Guest, registered user, or moderator. |
+| **Goal:** | Search for a particular article an have it be provided if it exists |
+| **Preconditions:** | The user is on the encyclopedia website |
+| **Flow:** | The encyclopedia provides a search bar. The user inputs their desired topic. The encyclopedia either provides the available topics, or informs the user that there is no topic of that type available. |
+| **Requirements:** | Device to access the encyclopedia. Internet access. |
+
+| Name of Use Case: | Adding Pages |
+| ---- | ---- |
+| **Description:** | A user browsing the contents of the online encyclopedia. |
+| **Actors:** | Registered user or moderator. |
+| **Goal:** | Be able to import or manually create new article pages. |
+| **Preconditions:** | The user is on the encyclopedia website. The user has permission to add pages. |
+| **Flow:** | The encyclopedia will have a button available for users who have permission to add a page. The user will be brought to a form page where they will input details of the page such as tags/topics, title, Description, etc. After finalizing this page, the user will be taken to a page where editing and adding the main content is possible. After the user is finished, they click the save/publish button, and the page is added to the database. |
+| **Requirements:** | Device to access the encyclopedia. Internet access. Sufficient permissions. |
+
+
