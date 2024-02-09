@@ -11,3 +11,11 @@ The functions of this online encyclopedia will include searching entries, storin
 5. As a curious person, I want links and suggested related topics to browse so that I can fall into a rabbit hole of interesting topics.
    
 # Use Cases
+| Name of Use Case: | Browsing |
+| ---- | ---- |
+| **Description:** | A user browsing the contents of the online encyclopedia. |
+| **Actors:** | Guest and registered user. |
+| **Goal:** | View articles and be linked to related ones. |
+| **Preconditions:** | The user is on the encyclopedia website |
+| **Flow:** | The encyclopedia facilitates a search or provides a list of available articles and topics. The user finds an article they have an interest in reading. The user goes to that article's page. |
+| **Requirements:** | Device to access the encyclopedia. Internet access. |
