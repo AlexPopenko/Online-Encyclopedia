@@ -38,4 +38,20 @@ The functions of this online encyclopedia will include searching entries, storin
 | **Flow:** | The encyclopedia will have a button available for users who have permission to add a page. The user will be brought to a form page where they will input details of the page such as tags/topics, title, Description, etc. After finalizing this page, the user will be taken to a page where editing and adding the main content is possible. After the user is finished, they click the save/publish button, and the page is added to the database. |
 | **Requirements:** | Device to access the encyclopedia. Internet access. Sufficient permissions. |
 
+| Name of Use Case: | Editing Pages |
+| ---- | ---- |
+| **Description:** | A user editing the contents or tags of an article/page |
+| **Actors:** | Registered user or moderator. |
+| **Goal:** | Edit the contents of a page. |
+| **Preconditions:** | The user is on the encyclopedia website, they have sufficient permission to edit. |
+| **Flow:** | The encyclopedia will have a button available for users who have permission to edit a page, it will be near the add a page button. The user will be brought to the content editing page of the article, such as the one that appears after adding a page.  After the user is finished, they click the save button, and the newly edited page is saved as the main page in the encyclopedia. |
+| **Requirements:** | Device to access the encyclopedia. Internet access. Permissions. |
 
+| Name of Use Case: | Deleting/Hiding pages |
+| ---- | ---- |
+| **Description:** | A moderator deleting or hiding a rule-violating article. |
+| **Actors:** | Moderator |
+| **Goal:** | Delete or hiding rule-violating articles. |
+| **Preconditions:** | The user is on the encyclopedia website. The user has sufficient permissions. |
+| **Flow:** | For moderators there will be an additional button that allows for the deletion or hiding of articles, as well as the article's history. It will be next to the edit and add buttons. When a moderator clicks this button, they will be taken to a page with options to hide and delete the article, as well as hide or delete the article's edit history. They will have to provide a reason for the hiding/deletion, and confirm that they understand that deletion is permanent. After confirmation of deletion, the article will be wiped form the database. After hiding an article, it will stay in the database, but will not be available to regular users. |
+| **Requirements:** | Device to access the encyclopedia. Internet access. Permissions. |
