@@ -6,7 +6,7 @@ The functions of this online encyclopedia will include searching entries, storin
 # Architecture Diagram
 ![Architecture](Images/ArchitectureDiagram.png)
 
-# Wireframes
+# Wireframe Drafts
 ![Wireframe 1](Images/WireFrames2.png)
 <br>
 ![Wireframe 2](Images/WireFrames1.png)
