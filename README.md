@@ -64,3 +64,8 @@ The functions of this online encyclopedia will include searching entries, storin
 | **Preconditions:** | The user is on the encyclopedia website. The user has sufficient permissions. |
 | **Flow:** | For moderators there will be an additional button that allows for the deletion or hiding of articles, as well as the article's history. It will be next to the edit and add buttons. When a moderator clicks this button, they will be taken to a page with options to hide and delete the article, as well as hide or delete the article's edit history. They will have to provide a reason for the hiding/deletion, and confirm that they understand that deletion is permanent. After confirmation of deletion, the article will be wiped form the database. After hiding an article, it will stay in the database, but will not be available to regular users. |
 | **Requirements:** | Device to access the encyclopedia. Internet access. Permissions. |
+
+
+
+# Use Case Diagram
+![Use Case Diagram](Images/UseCaseDiagram.png)
