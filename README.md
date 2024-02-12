@@ -3,6 +3,9 @@ An online encyclopedia similar to Wikipedia and TVTropes.org
 
 # Overview
 The functions of this online encyclopedia will include searching entries, storing data, hyperlinks to related articles, adding and editing pages, deleting pages, and showing statistics for what pages are available. The pages will have a tagging system, in case someone wants to browse them by topic, or wants to see related entries. It could so have user accounts that limit what a user can do if not logged in, for example editing or deleting entries. It would also be cool to have a history of changes made to any page for future reference.
+# Architecture Diagram
+![Architecture](Images/ArchitectureDiagram.png)
+
 # Wireframes
 ![Wireframe 1](Images/WireFrames2.png)
 <br>
