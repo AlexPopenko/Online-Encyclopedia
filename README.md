@@ -4,6 +4,7 @@
 - [Architecture Diagram](#ArcDiagram)
 - [Wireframe Drafts](#Wireframe)
 - [User Stories](#Stories)
+- [Requirements](#Requirements)
 - [Uses Cases](#UseCases)
 - [Uses Case Diagram](#UseDiagram)
 
@@ -43,7 +44,18 @@ The functions of this online encyclopedia will include searching entries, storin
 4. As a page author, I need of creating new pages for topics/articles which do not have them yet so they I can expand the scope of the encyclopedia.
 5. As a curious person, I want links and suggested related topics to browse so that I can fall into a rabbit hole of interesting topics.
 
-   <a id="UseCases"></a>
+# Requirements
+
+<a id="Requirements"></a>
+
+| 1   | The encyclopedia shall allow users to search for articles by keyword and tags. The search shall present a list of articles best matching the search, with options to refine the search such as sorting by date of creation.                                                                |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2   | The encyclopedia shall allow authorized users to create new article pages, providing users with an interface to input information like title, keyworkds/tags, category, and description. It shall then bring the user to a page where they can write and edit the contents of the article. |
+| 3   | The encyclopedia shall allow authorized users to edit existing articles, taking users to a page where the article's contents can be edited.                                                                                                                                                |
+| 4   | The encyclopedia shall allow users to browse through an index of articles. It shall have options to sort the articles by category, tags, date of creation, and alphabetical order.                                                                                                         |
+| 5   | The encyclopedia shall allow users to click on links to related articles within an article, if a related article exists.                                                                                                                                                                   |
+
+<a id="UseCases"></a>
 
 # Use Cases
 
