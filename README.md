@@ -12,7 +12,7 @@
 
 # Online-Encyclopedia
 
-An online encyclopedia similar to Wikipedia and TVTropes.org
+An online encyclopedia similar to Wikipedia and TVTropes.org. Focusing on providing information on media such as books, webnovels, and anime.
 
 <a id="Overview"></a>
 
