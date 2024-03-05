@@ -8,6 +8,7 @@
 - [Uses Cases](#UseCases)
 - [Uses Case Diagram](#UseDiagram)
 - [ERD Diagram](#ERDDiagram)
+- [UML Class Diagram](#UMLClassDiagram)
 
 <br>
 
@@ -118,3 +119,12 @@ The functions of this online encyclopedia will include searching entries, storin
 
     
 ![ERD Diagram](Images/EncyclopediaERD.png)
+
+
+<a id="UMLClassDiagram">    
+    
+    
+# UML Class Diagram
+
+    
+![ERD Diagram](Images/UMLClassDiagram.png)
