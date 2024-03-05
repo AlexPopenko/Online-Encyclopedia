@@ -113,4 +113,5 @@ The functions of this online encyclopedia will include searching entries, storin
 
 <a id="ERDDiagram">
 # ERD Diagram
+    
 ![ERD Diagram](Images/EncyclopediaERD.png)
