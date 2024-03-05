@@ -7,6 +7,7 @@
 - [Requirements](#Requirements)
 - [Uses Cases](#UseCases)
 - [Uses Case Diagram](#UseDiagram)
+- [ERD Diagram](#ERDDiagram)
 
 <br>
 
@@ -109,3 +110,7 @@ The functions of this online encyclopedia will include searching entries, storin
 # Use Case Diagram
 
 ![Use Case Diagram](Images/UseCaseDiagram.png)
+
+<a id="ERDDiagram">
+# ERD Diagram
+![ERD Diagram](Images/EncyclopediaERD.png)
