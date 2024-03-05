@@ -112,6 +112,9 @@ The functions of this online encyclopedia will include searching entries, storin
 ![Use Case Diagram](Images/UseCaseDiagram.png)
 
 <a id="ERDDiagram">
+    
+    
 # ERD Diagram
+
     
 ![ERD Diagram](Images/EncyclopediaERD.png)
