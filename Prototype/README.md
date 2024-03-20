@@ -8,4 +8,4 @@ The Index page will have a sortable list of all the articles the site contains, 
 
 The login page will allow a user to log in for greater permissions on the site, such as editing articles.
 
-![LoginImage](Images/LoginImages.png)
+![LoginImage](Images/LoginImage.png)
