@@ -1,0 +1,58 @@
+
+.navbar{
+    overflow: hidden;
+    background-color: #ADD8E6;
+}
+.navbar a{
+ float:left;
+ display: block;
+ color: #6B6B6B;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+a:hover {
+    background-color: #15abdd;
+  }
+
+.navbar input[type=text] {
+    float: right;
+    padding: .5%;
+    border: none;
+    margin-top: .5%;
+    margin-right: 4%;
+    font-size: 17px;
+}  
+  
+  
+body ul {
+    list-style-type: none;
+    margin: 0;
+    padding: .5%;
+    overflow: hidden;
+    
+    
+}
+
+
+
+body{
+
+    margin: -.5% -6% 0 -6%;
+   
+    background-color: cyan;
+    overflow: hidden;
+}
+body div{
+    background-color: #3cadd2;
+    margin: 0 5%;
+    
+    padding: 1%;
+}
+.content{
+    background-color: #3cadd2;
+    margin-right: 15%;
+    margin-left: 15%;
+    
+    padding: 1%;
+}
