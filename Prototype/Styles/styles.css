@@ -1,4 +1,7 @@
 
+html{
+    width:100%;
+}
 .navbar{
     overflow: hidden;
     background-color: #ADD8E6;
@@ -23,29 +26,17 @@ a:hover {
     margin-right: 4%;
     font-size: 17px;
 }  
-  
-  
-body ul {
-    list-style-type: none;
-    margin: 0;
-    padding: .5%;
-    overflow: hidden;
-    
-    
-}
+ 
 
 
 
 body{
-
-    margin: -.5% -6% 0 -6%;
-   
+    width: 100%;
     background-color: cyan;
     overflow: hidden;
 }
 body div{
     background-color: #3cadd2;
-    margin: 0 5%;
     
     padding: 1%;
 }
@@ -56,3 +47,11 @@ body div{
     
     padding: 1%;
 }
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 50%;
+  }
