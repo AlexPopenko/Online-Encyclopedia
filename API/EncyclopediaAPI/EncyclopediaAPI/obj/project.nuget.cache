@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "67hF6hIocbYsVlNm65GmW9ZDTWNzZAs/gVuFp40ky8X70wJuMdhPqMqD/CoGFfc7pCI/eN/X81WdsITLiCNzrw==",
+  "success": true,
+  "projectFilePath": "D:\\Learnings\\CollegeFiles2024\\Spring\\Senior Project\\Online-Encyclopedia\\API\\EncyclopediaAPI\\EncyclopediaAPI\\EncyclopediaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AlexP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AlexP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\AlexP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\AlexP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\AlexP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
