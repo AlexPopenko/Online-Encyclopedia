@@ -9,7 +9,7 @@
 - [Uses Case Diagram](#UseDiagram)
 - [ERD Diagram](#ERDDiagram)
 - [UML Class Diagram](#UMLClassDiagram)
-- [Data Access Layer](#DataAccess)
+- [Data Access Layer](#DataAccessLayer)
 
 <br>
 
@@ -131,7 +131,7 @@ The functions of this online encyclopedia will include searching entries, storin
 ![ERD Diagram](Images/UMLClassDiagram.png)
 
 
-<a id="#DataAccess"></a>
+<a id="#DataAccessLayer"></a>
 
 # Data Access Layer
 
