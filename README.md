@@ -132,6 +132,7 @@ The functions of this online encyclopedia will include searching entries, storin
 
 
 <a id="#DataAccess"></a>
+
 # Data Access Layer
 
 ![Encyclopedia API Class](Images/EncyclopediaAPIModel.png)
