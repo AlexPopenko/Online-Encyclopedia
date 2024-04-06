@@ -30,3 +30,13 @@ D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\API\Ency
 D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\API\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.pdb
 D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\API\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.genruntimeconfig.cache
 D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\API\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\ref\EncyclopediaAPI.dll
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.csproj.AssemblyReference.cache
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.AssemblyInfoInputs.cache
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.AssemblyInfo.cs
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.csproj.CoreCompileInputs.cache
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.dll
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\refint\EncyclopediaAPI.dll
+D:\Learnings\CollegeFiles2024\Spring\Senior Project\Online-Encyclopedia\EncyclopediaAPI\EncyclopediaAPI\obj\Debug\net6.0\EncyclopediaAPI.pdb
