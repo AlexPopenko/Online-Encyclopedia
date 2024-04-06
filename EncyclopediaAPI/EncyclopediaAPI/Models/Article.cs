@@ -31,9 +31,9 @@ namespace EncyclopediaAPI.Models
             // random list of names from "behindthename.com"
             {
                 new Article( 1, "Potatoes", "Foods", "Fred", "Potatoes are tasty"),
-                new Article( 1, "Tomatoes", "Foods", "Fred", "Tomato Tomato"),
-                new Article( 1, "Frogs", "Animals", "George", "Frogs are not snails"),
-                new Article( 1, "Deer", "Animals", "Fred", "Deer are fast")
+                new Article( 2, "Tomatoes", "Foods", "Fred", "Tomato Tomato"),
+                new Article( 3, "Frogs", "Animals", "George", "Frogs are not snails"),
+                new Article( 4, "Deer", "Animals", "Fred", "Deer are fast")
             };
     }
 }

@@ -9,6 +9,7 @@
 - [Uses Case Diagram](#UseDiagram)
 - [ERD Diagram](#ERDDiagram)
 - [UML Class Diagram](#UMLClassDiagram)
+- [Data Access Layer](#DataAccess)
 
 <br>
 
@@ -128,3 +129,13 @@ The functions of this online encyclopedia will include searching entries, storin
 
     
 ![ERD Diagram](Images/UMLClassDiagram.png)
+
+
+<a id="#DataAccess"></a>
+# Data Access Layer
+
+![Encyclopedia API Class](Images/EncyclopediaAPIModel.png)
+
+![Encyclopedia API Controller](Images/EncyclopediaAPIController.png)
+
+![Encyclopedia API Controller](Images/EncyclopediaAPIResponse.png)
