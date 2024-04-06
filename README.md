@@ -9,7 +9,7 @@
 - [Uses Case Diagram](#UseDiagram)
 - [ERD Diagram](#ERDDiagram)
 - [UML Class Diagram](#UMLClassDiagram)
-- [Data Access Layer](#DataAccessLayer)
+- [Data Access Layer](#Data-Access-Layer)
 
 <br>
 
